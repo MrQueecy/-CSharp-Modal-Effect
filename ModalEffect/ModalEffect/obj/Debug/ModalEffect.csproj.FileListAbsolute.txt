@@ -1,0 +1,11 @@
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\bin\Debug\ModalEffect.exe.config
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\bin\Debug\ModalEffect.exe
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\bin\Debug\ModalEffect.pdb
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.csproj.AssemblyReference.cache
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.Main.resources
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.Modal.resources
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.Properties.Resources.resources
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.csproj.GenerateResource.cache
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.csproj.CoreCompileInputs.cache
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.exe
+C:\Users\csxsy\Desktop\ModalEffect\ModalEffect\obj\Debug\ModalEffect.pdb

@@ -60,21 +60,5 @@ namespace ModalEffect
         {
             this.Close();
         }
-
-        private void modaleffect_Tick(object sender, EventArgs e)
-        {
-            if (Opacity < 1)
-            {
-                Opacity += .03;
-            }
-
-            int currentY = this.Location.Y + 3;
-            if (currentY >= targetY)
-            {
-                currentY = targetY;
-                modaleffect.Stop();
-            }
-            this.Location = new Point(this.Location.X, currentY);
-        }
     }
 }

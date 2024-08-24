@@ -16,8 +16,7 @@ namespace ModalEffect
         {
             InitializeComponent();
 
-            this.Activated += new EventHandler(this.ModalLR_Activated);
-            this.Deactivate += new EventHandler(this.ModalLR_Deactivate);
+             this.Activated += new EventHandler(this.ModalLR_Deactivate);
         }
 
         int targetY;
@@ -29,17 +28,12 @@ namespace ModalEffect
             this.Location = new Point(centerX, Main.parentY - this.Height);
             modaleffect.Start();
         }
-
-        private void ModalLR_Activated(object sender, EventArgs e)
-        {
-            this.Show();
-        }
-
-        private void ModalLR_Deactivate(object sender, EventArgs e)
-        {
-            this.Hide();
-        }
-
+        
+         private void ModalLR_Deactivate(object sender, EventArgs e)
+         {
+             this.TopMost = true; 
+         }
+        
         private void modalEffect_Timer_Tick(object sender, EventArgs e)
         {
             if (Opacity < 1)
